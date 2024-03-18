@@ -1,9 +1,11 @@
-import { LandingPage } from "./pages/LandingPage";
+import { AppRouter } from "./Routers/AppRouter";
+import { Header } from "./components/Header";
 
 function App() {
   return (
     <>
-      <LandingPage />
+      <Header />
+      <AppRouter />
     </>
   );
 }

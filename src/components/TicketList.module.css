@@ -4,13 +4,13 @@
     background: -webkit-linear-gradient(#D1F2EB, #27AE60);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation-duration: 3s;
+    animation-duration: 1s;
 }
 
 .container {
-    border: 1px solid #566573;
+    border: 1px solid #fff;
     padding: 5px;
     margin: 15px;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: #D5DBDB;
 }

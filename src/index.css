@@ -9,7 +9,7 @@
 
 body {
   font-family: "Rubik", sans-serif;
-  background-color: #34567A;
+  background-color: #F2F3F4;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -18,16 +18,22 @@ body {
 
 .buttonWrapper {
   display: flex;
-  gap: 5px;
+  gap: 10px;
   margin: 10px;
   justify-content: center;
 }
 
 
-.buttonWrapper button {
+.buttonWrapper a {
   border: none;
-  padding: 5px;
-  border-radius: 2px;
+  padding: 8px;
+  border-radius: 5px;
   color: white;
   background: linear-gradient(to left bottom, #a6bcf4, #06318d);
+  text-decoration: none;
+  transition: all 2s ease;
+}
+
+a:hover {
+  background: linear-gradient(to left bottom, #143da6, #9db0d8);
 }
