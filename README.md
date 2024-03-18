@@ -8,7 +8,7 @@ To execute the project
  2 - yarn init,
  3 - yarn dev
 
-Hope this project satisfice your needs for the role of sofware engineer vacancy.
+Hope this project satisfies your needs for the role of sofware engineer vacancy.
 
 Here some images of the final result: 
 Contributors List
