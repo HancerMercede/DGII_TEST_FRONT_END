@@ -1,8 +1,21 @@
-# React + Vite
+# THIS IS THE FRONT-END PROJECT FOR THE DGII TEST.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This project is built with React.js and Vite.js and others tools like React-Router-dom v6, Axios to comunicate with the Back-End.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To execute the project
+ 1 - clone the repo,
+ 2 - yarn init,
+ 3 - yarn dev
+
+Hope this project satisfies your needs for the role of sofware engineer vacancy.
+
+Here some images of the final result: 
+Contributors List
+![image](https://github.com/HancerMercede/DGII_TEST_FRONT_END/assets/78920052/7fdfffd7-b279-4aac-a4fd-02090c7c454c)
+
+Tickets List 
+
+![image](https://github.com/HancerMercede/DGII_TEST_FRONT_END/assets/78920052/904aa7a3-3c1f-4181-a714-d96404c4dcee)
+
+
