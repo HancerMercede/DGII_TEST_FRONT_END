@@ -4,9 +4,9 @@
 This project is built with React.js and Vite.js and others tools like React-Router-dom v6, Axios to comunicate with the Back-End.
 
 To execute the project
-clone the repo
-yarn init
-yarn dev
+ 1 - clone the repo,
+ 2 - yarn init,
+ 3 - yarn dev
 
 Hope this project satisfice your needs for the role of sofware engineer vacancy.
 
