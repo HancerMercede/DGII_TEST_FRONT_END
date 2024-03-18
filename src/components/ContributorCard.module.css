@@ -1,0 +1,19 @@
+.container {
+    background: linear-gradient(to left bottom, #a6e0f4, #068d2a);
+    margin: 8px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    transition: all 2s ease;
+}
+
+.container:hover {
+    transform: scale(1.02, 1.02);
+}
+
+
+.container li {
+    list-style: none;
+    text-decoration: none;
+    margin: 5px;
+}
